@@ -15,6 +15,7 @@
     "jest": "^30.2.0"
   },
   "dependencies": {
+    "docker": "^1.0.0",
     "express": "^5.2.1"
   }
 }
